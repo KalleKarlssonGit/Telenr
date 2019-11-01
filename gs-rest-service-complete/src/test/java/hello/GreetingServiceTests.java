@@ -24,7 +24,6 @@ public class GreetingServiceTests {
 	@Autowired
 	GreetingService greetingService;
 
-
 	/* Test valid greetings start */
 
     @Test
